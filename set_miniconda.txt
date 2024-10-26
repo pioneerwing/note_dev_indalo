@@ -83,3 +83,4 @@ Setting miniconda
 				1) Jupyter Notebook을 실행하려면 아래 명령어를 입력합니다:
 					1)bash>>> jupyter notebook  
 			4) 이제 웹 브라우저에서 Jupyter Notebook 인터페이스가 열리면, 생성한 커널을 선택하여 사용할 수 있습니다.
+git push ? change directory name
